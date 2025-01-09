@@ -1,0 +1,18 @@
+{
+  "name": "taskmanager-22",
+  "version": "22.0.0",
+  "private": true,
+  "description": "Учебный демо-проект «Менеджер задач» от HTML Academy",
+  "scripts": {
+    "lint": "eslint src/"
+  },
+  "devDependencies": {
+    "eslint": "8.38.0",
+    "eslint-config-htmlacademy": "9.0.0",
+    "webpack": "5.97.1",
+    "webpack-cli": "6.0.1"
+  },
+  "engines": {
+    "node": "20"
+  }
+}
